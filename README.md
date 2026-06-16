@@ -1,6 +1,6 @@
 # MIM Library Management System
 
-A library management system built with Python and Streamlit, using SQLite as the database.
+A Python-based library management system built with Streamlit, using SQLite as the database.
 
 ---
 
