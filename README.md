@@ -5,9 +5,12 @@ A Python-based library management system built with Streamlit, using SQLite as t
 ---
 
 **Subject:** BIT1034 Advanced Programming
-**Student Name:** Mohd Irwan bin Mohi
-**Student ID:** B25090011
 **Institution:** Malaysia University of Science and Technology
+
+| Name | Student ID |
+|------|------------|
+| Mohd Irwan bin Mohi | B25090011 |
+| Izzat Dhiyauddin bin Zainuddin | B25080294 |
 
 ---
 
@@ -155,4 +158,4 @@ mim-library/
 
 ---
 
-*Created & Designed by **Mohd Irwan bin Mohi** | B25090011 | MIM Library &copy; 2026*
+*Mohd Irwan bin Mohi (B25090011) & Izzat Dhiyauddin bin Zainuddin (B25080294) | MIM Library &copy; 2026*
