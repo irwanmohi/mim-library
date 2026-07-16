@@ -14,7 +14,9 @@ def render_sidebar():
         <div style='text-align:center; color:#888; font-size:0.78rem; line-height:1.6;'>
             <em>Created &amp; Designed by</em><br>
             <strong style='color:#ccc;'>Mohd Irwan bin Mohi</strong><br>
-            <code>B25090011</code>
+            <code>B25090011</code><br><br>
+            <strong style='color:#ccc;'>Izzat Dhiyauddin bin Zainuddin</strong><br>
+            <code>B25080294</code>
         </div>
     """, unsafe_allow_html=True)
 
@@ -24,9 +26,9 @@ def render_footer():
     st.divider()
     st.markdown("""
         <div style='text-align:center; color:#666; font-size:0.80rem; padding:0.5rem 0 1rem 0;'>
-            Created &amp; Designed by &nbsp;
-            <strong style='color:#888;'>Mohd Irwan bin Mohi</strong>
-            &nbsp;|&nbsp; <code>B25090011</code>
+            <strong style='color:#888;'>Mohd Irwan bin Mohi</strong> <code>B25090011</code>
+            &nbsp;&amp;&nbsp;
+            <strong style='color:#888;'>Izzat Dhiyauddin bin Zainuddin</strong> <code>B25080294</code>
             &nbsp;|&nbsp; MIM Library &copy; 2026
         </div>
     """, unsafe_allow_html=True)
