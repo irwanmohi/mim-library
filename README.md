@@ -2,6 +2,8 @@
 
 A Python-based library management system built with Streamlit, using SQLite as the database.
 
+🔗 **Live Demo:** https://mim-library-foqlfzh6ps2xyrpderp3dv.streamlit.app/
+
 ---
 
 **Subject:** BIT1034 Advanced Programming
